@@ -1,4 +1,4 @@
-# Khulnasoft Runners Cache action
+# KhulnaSoft Runners Cache action
 
 This utility repository periodically runs a GitHub Action that pulls the latest [actions/cache](https://github.com/actions/cache) repository and applies a rather simple patch to all of its actions:
 
